@@ -179,7 +179,7 @@ export const UploadZone = ({ onUpload, isLoading, progress, selectedFile }) => {
 
           {/* File type info */}
           <p className="text-xs text-gray-500">
-            CSV files only • Maximum 50MB
+            CSV files only 
           </p>
         </div>
 
